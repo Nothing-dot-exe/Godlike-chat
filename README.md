@@ -7,6 +7,10 @@
 
 **NVIDIA NEXT** is a high-performance, long-term memory-capable AI chatbot built on the NVIDIA NIM infrastructure. It transforms standard LLM interactions into a personalized, visual, and uncensored experience.
 
+### 🌐 [Try the Live Demo →](https://uncensored-ai-demo.vercel.app)
+
+> **Free cloud preview** — Chat with 4 AI models, explore 6 themes, and experience the UI instantly. No downloads required. The full source code with PC control, uncensored mode, and unlimited usage is available for purchase.
+
 ---
 
 ## ✨ Key Features
@@ -29,6 +33,23 @@ Paste any URL (news, wiki, docs) into the chat. The backend uses a stealth scrap
 *   **Local-First:** All memories and chats stay in your browser. Nothing is stored on our servers.
 
 ---
+
+## 🚀 Getting Started
+
+
+
+### Running the App
+You can use the provided batch files for a one-click startup:
+*   **`run_website.bat`**: Launches the Next.js development server at `http://localhost:3000`.
+
+Or run manually:
+```bash
+cd webapp
+npm run dev
+```
+
+---
+
 ## 🛠️ How it was Built
 
 ### The Tech Stack
