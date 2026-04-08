@@ -31,7 +31,7 @@ Watch a complete, unedited session of Godlike-Chat running locally. The AI proce
 
 <div align="center">
 
-https://github.com/user-attachments/assets/demo-video
+media/demo_showcase.mp4
 
 > 📁 _Local file:_ [`media/demo_showcase.mp4`](media/demo_showcase.mp4)
 
