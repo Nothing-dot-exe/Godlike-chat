@@ -228,26 +228,6 @@ The bottom toolbar is your mission control. Every critical status indicator and 
 <br/>
 
 ---
-
-<br/>
-
-## 📸 Additional Interface Views
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| ![View 1](media/Screenshot%202026-04-08%20142130.png) | ![View 2](media/Screenshot%202026-04-08%20142145.png) |
-| _Settings Panel — Full Overview_ | _Chat Interface — Active Session_ |
-| ![View 3](media/Screenshot%202026-04-08%20142227.png) | ![View 4](media/Screenshot%202026-04-08%20142258.png) |
-| _Markdown & Code Rendering_ | _Full Desktop Experience_ |
-
-</div>
-
-<br/>
-
----
-
 <br/>
 
 ## 🏆 Premium Feature Summary
