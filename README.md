@@ -29,37 +29,6 @@ Paste any URL (news, wiki, docs) into the chat. The backend uses a stealth scrap
 *   **Local-First:** All memories and chats stay in your browser. Nothing is stored on our servers.
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-*   [Node.js](https://nodejs.org/) (v18 or higher)
-*   An **NVIDIA NIM API Key** (Get one for free at [build.nvidia.com](https://build.nvidia.com))
-
-### Installation
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/Nothing-dot-exe/my-ai.git
-    cd my-ai
-    ```
-2.  Install dependencies for the webapp:
-    ```bash
-    cd webapp
-    npm install
-    ```
-
-### Running the App
-You can use the provided batch files for a one-click startup:
-*   **`run_website.bat`**: Launches the Next.js development server at `http://localhost:3000`.
-
-Or run manually:
-```bash
-cd webapp
-npm run dev
-```
-
----
-
 ## 🛠️ How it was Built
 
 ### The Tech Stack
