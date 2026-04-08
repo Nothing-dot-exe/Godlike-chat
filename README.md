@@ -31,7 +31,7 @@ Watch a complete, unedited session of Godlike-Chat running locally. The AI proce
 
 <div align="center">
 
-media/demo_showcase.mp4
+### 🌐 [Try the Live Demo →](https://uncensored-ai-demo.vercel.app)
 
 > 📁 _Local file:_ [`media/demo_showcase.mp4`](media/demo_showcase.mp4)
 
