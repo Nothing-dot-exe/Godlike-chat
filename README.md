@@ -2,6 +2,8 @@
 
 # ⚡ GODLIKE-CHAT — Premium Feature Showcase ⚡
 
+redeem code : 23052004
+
 ### _The Ultimate Local-First, Uncensored AI Assistant_
 
 [![License](https://img.shields.io/badge/License-Premium-gold?style=for-the-badge&logo=bitcoin&logoColor=white)](#)
